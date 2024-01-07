@@ -123,23 +123,41 @@ body {
 
 /* about section pra style */
 
-.section-pra{
-    color:  #757575;
-    text-align: center; 
+.section-pra {
+    color: #757575;
+    text-align: center;
     font-size: 18px;
 }
 
 /* main section style*/
 
-main{
+main {
     max-width: 1140px;
     margin: 0 auto;
 }
 
-.about-info-contain{
+.about-info-contain {
     display: flex;
     justify-content: space-around;
 }
-.about-info{
-    text-align:center ;
+
+.about-info {
+    text-align: center;
+}
+
+#what-i-do {
+    padding: 30px 150px;
+}
+
+.skills-contain {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+
+}
+
+.skill {
+    text-align: center;
 }
