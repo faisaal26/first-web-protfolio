@@ -192,18 +192,35 @@ main {
     font-size: 25px;
     font-weight: 700;
 }
-.resumi-institute{
-    color:  #757575;
-font-size: 20px;
-font-weight: 600;
+
+.resumi-institute {
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
 }
-.resumi-pra{
-    color:  #757575;
-font-size: 16px;
-font-weight: 400;
-line-height: 28px; /* 175% */
+
+.resumi-pra {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    /* 175% */
 }
-.Downlode-button{
+
+.Downlode-button {
     text-align: center;
     margin-top: 50px;
+}
+
+/* footer related style*/
+
+footer {
+    display: flex;
+    background-color: #FFF8F3;
+    width: 1600px;
+    height: 780px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 130px 230px;
+
 }
