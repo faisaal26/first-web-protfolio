@@ -3,6 +3,9 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 200px;
+
+
 }
 
 .web-title {
@@ -26,6 +29,8 @@ nav a {
     color: #474747;
 }
 
+
+
 /* commpn shere styles */
 body {
     font-family: 'Open Sans', sans-serif;
@@ -45,4 +50,21 @@ body {
     font-weight: 700;
     padding: 15px 35px;
 
+}
+
+/*header related style*/
+.header {
+    background-color: #FFF8F3;
+
+}
+
+.banar {
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+
+.banar img {
+    width: 584px;
+    height: 676px;
 }
